@@ -13,7 +13,7 @@ let package = Package(
         .library(name: "TPInAppReceipt", targets: ["TPInAppReceipt"]),
     ],
 	dependencies: [
-		.package(url: "https://github.com/tikhop/ASN1Swift", .upToNextMajor(from: "1.0.0"))
+		.package(url: "https://github.com/keepassium/ASN1Swift", .upToNextMajor(from: "1.0.0"))
 	],
     targets: [
         .target(
