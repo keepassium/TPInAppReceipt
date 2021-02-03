@@ -3,10 +3,10 @@
     {
       "identity" : "asn1swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/tikhop/ASN1Swift",
+      "location" : "https://github.com/keepassium/ASN1Swift",
       "state" : {
-        "revision" : "4e525ca3064fd45751b80c9ae6a2c16ea7b395e9",
-        "version" : "1.2.6"
+        "revision" : "b53bee03a942623db25afc5bfb80227b2cb3b425",
+        "version" : "1.2.4"
       }
     }
   ],
