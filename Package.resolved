@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/keepassium/ASN1Swift",
       "state" : {
-        "revision" : "b53bee03a942623db25afc5bfb80227b2cb3b425",
-        "version" : "1.2.4"
+        "branch" : "keepassium",
+        "revision" : "403cd95194e6a962e16db7c0d373d89fce83e0f7"
       }
     }
   ],
